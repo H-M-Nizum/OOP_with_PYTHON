@@ -1,0 +1,10 @@
+RESTAURANT _____
+
+        Main Two type of Users
+            i. Customer(show menu, do order)
+            ii. Employe
+                a. Manager(add iteams, add employe, Check menu, Check balance)
+                b. Chef()
+                c. Server(serve food)
+                d. Supplier(supply iteam)
+
