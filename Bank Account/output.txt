@@ -1,0 +1,91 @@
+Account '⬛◼️◾▪️kala▪️◾◾◼️⬛' created. 
+Balance = $1000.00
+
+Account '🐻‍❄️🐻‍❄️Dola🐻‍❄️🐻‍❄️' created.
+Balance = $2000.00
+
+Deposit succesfully complete
+
+Account '⬛◼️◾▪️kala▪️◾◾◼️⬛' created.
+Balance = $1500.00
+
+Withdraw complete.
+
+Account '🐻‍❄️🐻‍❄️Dola🐻‍❄️🐻‍❄️' created.
+Balance = $1000.00
+
+Withdraw complete.
+
+Account '⬛◼️◾▪️kala▪️◾◾◼️⬛' created.
+Balance = $500.00
+
+***********
+
+Beginning Transer ... 🚀
+
+Transfer interrupted! '❌
+ Sorry, account '⬛◼️◾▪️kala▪️◾◾◼️⬛' only hase a balance of $500.00
+
+***********
+
+Beginning Transer ... 🚀
+
+Withdraw complete.
+
+Account '🐻‍❄️🐻‍❄️Dola🐻‍❄️🐻‍❄️' created.
+Balance = $901.00
+
+Deposit succesfully complete
+
+Account '⬛◼️◾▪️kala▪️◾◾◼️⬛' created.
+Balance = $599.00
+
+Transfer complete! 👍
+
+Account '🔴🔴Lala🔴🔴' created.
+Balance = $1000.00
+
+Deposit complete.
+
+Account '🔴🔴Lala🔴🔴' created.
+Balance = $1105.00
+
+***********
+
+Beginning Transer ... 🚀
+
+Withdraw complete.
+
+Account '🔴🔴Lala🔴🔴' created.
+Balance = $1005.00
+
+Deposit succesfully complete
+
+Account '⬛◼️◾▪️kala▪️◾◾◼️⬛' created.
+Balance = $699.00
+
+Transfer complete! 👍
+
+Account '💢💢mala💢💢' created.
+Balance = $10000.00
+
+Deposit complete.
+
+Account '💢💢mala💢💢' created.
+Balance = $10105.00
+
+***********
+
+Beginning Transer ... 🚀
+
+Withdraw completed .
+
+Account '💢💢mala💢💢' created.
+Balance = $9100.00
+
+Deposit succesfully complete
+
+Account '⬛◼️◾▪️kala▪️◾◾◼️⬛' created.
+Balance = $1699.00
+
+Transfer complete! 👍
