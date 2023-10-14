@@ -1,0 +1,2 @@
+input --- Teacher give name, roll, course title, course id and marks
+output --- show course grade and total grade, TOtal gpa

@@ -1,0 +1,63 @@
+#######################################################################################################
+############################################    INPUT    ##############################################
+#######################################################################################################
+
+Hello sir! Welcome our Result calculator apps 👍
+
+Enter student number: 3
+
+Enter 1th student id: 111
+Enter 1th student name: Tamim 
+
+Enter number of subject: 2
+
+Enter subject title : Java
+Enter subject id : CSE-101
+Enter subject Mark : 66
+
+Enter subject title : C
+Enter subject id : CSE-102
+Enter subject Mark : 77
+
+Enter 2th student id: 222
+Enter 2th student name: Sakib
+
+Enter number of subject: 3
+
+Enter subject title : HTML
+Enter subject id : CSE-103
+Enter subject Mark : 88
+
+Enter subject title : Css
+Enter subject id : CSE-104
+Enter subject Mark : 87
+
+Enter subject title : React
+Enter subject id : CSE-105
+Enter subject Mark : 78
+
+Enter 3th student id: 333
+Enter 3th student name: Mas
+
+Enter number of subject: 1
+
+Enter subject title : Cricket
+Enter subject id : CSE-106
+Enter subject Mark : 100
+
+
+#######################################################################################################
+############################################    OUTPUT    #############################################
+#######################################################################################################
+
+Student numbert 1th details result________
+
+{'student_id': 111, 'Name': 'Tamim', 'Java': {'Subject_id': 'CSE-101', 'mark': 66, 'Grade': 'A-', 'GPA': 3.5}, 'C': {'Subject_id': 'CSE-102', 'mark': 77, 'Grade': 'A', 'GPA': 4.0}, 'Final_GPA': 3.75, 'Final_grade': 'A'}
+
+Student numbert 2th details result________
+
+{'student_id': 222, 'Name': 'Sakib', 'HTML': {'Subject_id': 'CSE-103', 'mark': 88, 'Grade': 'A+', 'GPA': 5.0}, 'Css': {'Subject_id': 'CSE-104', 'mark': 87, 'Grade': 'A+', 'GPA': 5.0}, 'React': {'Subject_id': 'CSE-105', 'mark': 78, 'Grade': 'A', 'GPA': 4.0}, 'Final_GPA': 4.666666666666667, 'Final_grade': 'A+'}
+
+Student numbert 3th details result________
+
+{'student_id': 333, 'Name': 'Mas', 'Cricket': {'Subject_id': 'CSE-106', 'mark': 100, 'Grade': 'A+', 'GPA': 5.0}, 'Final_GPA': 5.0, 'Final_grade': 'A+'}
