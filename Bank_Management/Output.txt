@@ -1,0 +1,316 @@
+Welcome our Bank ________ you can try any option_
+
+1. Users (press1)
+2. Admin (press 2)
+3.Exist (press any key)
+
+Enter your ans: 1
+
+How can i helap you_____
+
+1. Create an account
+2. Your own account
+3.Exist (press any key)
+
+Enter your option : 1
+Enter your name: jon
+Enter your email account: jon@gmail.com
+Enter your address: dhaka
+Enter your account type: saving
+
+Enter new account_id: 111
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 1
+ENter your amount: 1000
+
+Deposit succesfully complete
+
+Account 'jon' created. Balance = $1000.00
+
+1. Deposit money
+2. Withdraw money
+3. Check balance 
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 2
+ENter your amount: 200
+
+Withdraw complete.
+
+Account 'jon' created. Balance = $800.00
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 3
+
+Account 'jon' created. Balance = $800.00
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 0
+
+How can i helap you_____
+
+1. Create an account
+2. Your own account
+3.Exist (press any key)
+
+Enter your option : 1
+Enter your name: dev
+Enter your email account: dev@gmail.com
+Enter your address: ctg
+Enter your account type: saving
+
+Enter new account_id: 222
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 1
+ENter your amount: 3000
+
+Deposit succesfully complete
+
+Account 'dev' created. Balance = $3000.00
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 4
+Enter transfer money: 2000
+ENter transfer id: 111
+
+***********
+
+Beginning Transer ... 🚀
+
+Withdraw complete.
+
+Account 'dev' created. Balance = $1000.00
+
+Deposit succesfully complete
+
+Account 'jon' created. Balance = $2800.00
+
+Transfer complete! 👍
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 5
+Transaction History______________
+[3000, -2000]
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 6
+How much need your loan: 2000
+Your loan accepted.
+
+Deposit succesfully complete
+
+Account 'dev' created. Balance = $3000.00
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 6
+How much need your loan: 200
+Your loan accepted.
+
+Deposit succesfully complete
+
+Account 'dev' created. Balance = $3200.00
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 6
+You can not take loan more then 2 time
+
+
+1. Deposit money
+2. Withdraw money
+3. Check balance
+4. Transaction
+5. Check Transaction history
+6. If  your need loan
+press any key if you want back
+
+Enter your option: 33
+
+How can i helap you_____
+
+1. Create an account
+2. Your own account
+3.Exist (press any key)
+
+Enter your option : 3
+
+__________Thank you___________
+
+
+Welcome our Bank ________ you can try any option_
+
+1. Users (press1)
+2. Admin (press 2)
+3.Exist (press any key)
+
+Enter your ans: 2
+Enter Admin passward: 110011
+__________ Welcome to bank system __________
+
+press any serial number____
+
+1. Create an account
+2. Delete any user account
+3. see all user accounts list
+4. Check Total balance
+5. Check Total loan amount
+6. can on or off the loan feature
+*. press any key for exist
+
+Enter a number: 1
+Enter your name: carti
+Enter your email account: carti@gmail.com
+Enter your address: dhaka
+Enter your account type: saving
+Enter new account_id: 333
+press any serial number____
+
+1. Create an account
+2. Delete any user account
+3. see all user accounts list
+4. Check Total balance
+5. Check Total loan amount
+6. can on or off the loan feature
+*. press any key for exist
+
+Enter a number: 3
+Oner name : jon email : jon@gmail.com address : dhaka Account type : saving current balance : 2800 current loan: 0
+[1000, -200, 2000]
+None
+_______________-____________
+
+Oner name : dev email : dev@gmail.com address : ctg Account type : saving current balance : 3200 current loan: 3
+[3000, -2000, 2000, 200]
+None
+_______________-____________
+
+Oner name : carti email : carti@gmail.com address : dhaka Account type : saving current balance : 0 current loan: 0
+[]
+None
+_______________-____________
+
+press any serial number____
+
+1. Create an account
+2. Delete any user account
+3. see all user accounts list
+4. Check Total balance
+5. Check Total loan amount
+6. can on or off the loan feature
+*. press any key for exist
+
+Enter a number: 4
+Total available balance of the bank : $10000003800.00
+
+press any serial number____
+
+1. Create an account
+2. Delete any user account
+3. see all user accounts list
+4. Check Total balance
+5. Check Total loan amount
+6. can on or off the loan feature
+*. press any key for exist
+
+Enter a number: 5
+The total loan amount is: $2200.00
+
+press any serial number____
+
+1. Create an account
+2. Delete any user account
+3. see all user accounts list
+4. Check Total balance
+5. Check Total loan amount
+6. can on or off the loan feature
+*. press any key for exist
+
+Enter a number: 6
+If you want loan feature can acctive press 1 otherwis press 2 : 1
+press any serial number____
+
+1. Create an account
+2. Delete any user account
+3. see all user accounts list
+4. Check Total balance
+5. Check Total loan amount
+6. can on or off the loan feature
+*. press any key for exist
+
+Enter a number: 0
+
+Welcome our Bank ________ you can try any option_
+
+1. Users (press1)
+2. Admin (press 2)
+3.Exist (press any key)
+
+Enter your ans: 0
+Thanks for visit our Bank.
