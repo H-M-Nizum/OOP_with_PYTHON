@@ -1,0 +1,119 @@
+__________Welcome to our guessing Number application_____________
+
+Enter your name📛 :- jon
+Enter your email📩 :- jon124@gmail.com
+Start your game________
+
+Guess a number🤔 :- 23
+Your nuber is too high🆙 from the original number ❌
+
+Guess a number🤔 :- 12
+Your nuber is too high🆙 from the original number ❌
+
+Guess a number🤔 :- 11
+Your nuber is too high🆙 from the original number ❌
+
+Guess a number🤔 :- 4
+You are guess right number 🟰🤝
+You need 💢💢 4th 💢💢 time for guess the right number.
+
+
+If you want play again press 1️⃣
+if you want see your game histry press 2️⃣
+Otherwise press any number 🦉
+
+Enter your option:- 1
+Start your game________
+
+Guess a number🤔 :- 34
+Your nuber is too low⏬ from the original number ❌
+
+Guess a number🤔 :- 67
+Your nuber is too low⏬ from the original number ❌
+
+Guess a number🤔 :- 88
+Your nuber is too low⏬ from the original number ❌
+
+Guess a number🤔 :- 99
+Your nuber is too high🆙 from the original number ❌
+
+Guess a number🤔 :- 89
+Your nuber is too low⏬ from the original number ❌
+
+Guess a number🤔 :- 95
+Your nuber is too high🆙 from the original number ❌
+
+Guess a number🤔 :- 92
+Your nuber is too high🆙 from the original number ❌
+
+Guess a number🤔 :- 90
+You are guess right number 🟰🤝
+You need 💢💢 8th 💢💢 time for guess the right number.
+
+
+If you want play again press 1️⃣
+if you want see your game histry press 2️⃣
+Otherwise press any number 🦉
+
+Enter your option:- 2
+{4: [23, 12, 11, 4], 90: [34, 67, 88, 99, 89, 95, 92, 90]}
+
+If you want play again press 1️⃣
+Otherwise press any number 🦉
+
+Enter your option:- 5
+
+If want to play a new player press 1️⃣
+if you want see Hole game histry press 2️⃣
+Otherwise press any number 🦉
+
+Enter your option:- 1
+Enter your name📛 :- dev
+Enter your email📩 :- dev456@gmail.com
+Start your game________
+
+Guess a number🤔 :- 45
+Your nuber is too low⏬ from the original number ❌
+
+Guess a number🤔 :- 67
+Your nuber is too low⏬ from the original number ❌
+
+Guess a number🤔 :- 88
+Your nuber is too high🆙 from the original number ❌
+
+Guess a number🤔 :- 78
+Your nuber is too low⏬ from the original number ❌
+
+Guess a number🤔 :- 83
+Your nuber is too high🆙 from the original number ❌
+
+Guess a number🤔 :- 80
+You are guess right number 🟰🤝
+You need 💢💢 6th 💢💢 time for guess the right number.
+
+
+If you want play again press 1️⃣
+if you want see your game histry press 2️⃣
+Otherwise press any number 🦉
+
+Enter your option:- 2
+{80: [45, 67, 88, 78, 83, 80]}
+
+If you want play again press 1️⃣
+Otherwise press any number 🦉
+
+Enter your option:- 7
+
+If want to play a new player press 1️⃣
+if you want see Hole game histry press 2️⃣
+Otherwise press any number 🦉
+
+Enter your option:- 2
+{'jon': {4: [23, 12, 11, 4], 90: [34, 67, 88, 99, 89, 95, 92, 90]}, 'dev': {80: [45, 67, 88, 78, 83, 80]}}
+
+If want to play a new player press 1️⃣
+Otherwise press any number 🦉
+
+Enter your option:- 7
+
+___________Thanks for playing game________________
