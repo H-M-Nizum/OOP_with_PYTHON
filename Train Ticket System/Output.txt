@@ -1,0 +1,200 @@
+Admin/User/ Exist ? : Admin
+
+Enter your email ID 📧 : Admin@gmail.com
+Enter your password 🔑 : 123
+
+successfully login
+
+1 Show all abailable train
+2 Show all user
+3 Add  new train
+4. logout
+
+enter choice: 3
+
+Enter train name: Sundorbon
+Enter train id : 100
+Enter train current location: Dhaka 
+Enter train destination: Khulna
+1 Show all abailable train
+2 Show all user
+3 Add  new train
+4. logout
+
+enter choice: 3
+
+Enter train name: sitra
+Enter train id : 200
+Enter train current location: Dhaka
+Enter train destination: Rajshahi
+1 Show all abailable train
+2 Show all user
+3 Add  new train
+4. logout
+
+enter choice: 1
+
+_____________________________ Train info _________________________
+
+name: Sundorbon, id : 100, location: Dhaka, destination : Khulna
+name: sitra, id : 200, location: Dhaka, destination : Rajshahi
+
+1 Show all abailable train
+2 Show all user
+3 Add  new train
+4. logout
+
+enter choice: 4
+
+Admin/User/ Exist ? : User
+
+1. login
+2. rejister
+3. exit 
+
+chose a number : 2
+
+Enter your name: aaa
+Enter your email ID 📧 : aaa@gmail.com
+Enter your password 🔑 : 111
+
+susccessful rejister
+
+Admin/User/ Exist ? : User
+
+1. login
+2. rejister
+3. exit 
+
+chose a number : 1
+
+Enter your email ID: aaa@gmail.com
+Enter your password: 111
+
+welcome  aaa
+
+1. show abailable train
+2. show abailable seets
+3. book seets
+4. logout
+
+Enter your Choice: 1
+
+_____________________________ Train info _________________________
+
+name: Sundorbon, id : 100, location: Dhaka, destination : Khulna
+name: sitra, id : 200, location: Dhaka, destination : Rajshahi
+
+1. show abailable train
+2. show abailable seets
+3. book seets
+4. logout
+
+Enter your Choice: 2
+
+Train id: 100
+
+_____________________________ Show Available seets info _________________________
+
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+
+1. show abailable train
+2. show abailable seets
+3. book seets
+4. logout
+
+Enter your Choice: 3
+
+Train id: 100
+
+Enter your Row number in seets list2
+Enter your Column number in seets list2
+
+Booking seet secessfully ✅
+1. show abailable train
+2. show abailable seets
+3. book seets
+4. logout
+
+Enter your Choice: 2
+
+Train id: 100
+
+_____________________________ Show Available seets info _________________________
+
+A A A A
+A A A A
+A A X A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+
+1. show abailable train
+2. show abailable seets
+3. book seets
+4. logout
+
+Enter your Choice: 2
+
+Train id: 200
+
+_____________________________ Show Available seets info _________________________
+
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+A A A A
+
+1. show abailable train
+2. show abailable seets
+3. book seets
+4. logout
+
+Enter your Choice: 4
+
+Admin/User/ Exist ? : Admin
+
+Enter your email ID 📧 : Admin@gmail.com
+Enter your password 🔑 : 123
+
+successfully login
+
+1 Show all abailable train
+2 Show all user
+3 Add  new train
+4. logout
+
+enter choice: 2
+
+_____________________________ Show all user info _________________________
+
+name: aaa, Email : aaa@gmail.com
+
+1 Show all abailable train
+2 Show all user
+3 Add  new train
+4. logout
+
+enter choice: 4
+
+Admin/User/ Exist ? : Exist
+
